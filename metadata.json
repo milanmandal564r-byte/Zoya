@@ -1,0 +1,7 @@
+{
+  "name": "Remix: MAX - AI Voice Assistant",
+  "description": "A sassy, witty, and intelligent Indian AI voice assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
